@@ -17,7 +17,8 @@ Schoolsoft is a swedish school "web software" for the students and teachers.
 ## How to get rss link?
 1. Login into schoolsoft and go into your profile.
 2. Activate RSS Feed and copy the link.
-![Example picture](https://gyazo.com/e6dac69deba217e1f07f0982290ba2d7.png);
+
+![Example picture](https://gyazo.com/e6dac69deba217e1f07f0982290ba2d7.png)
 
 ## Credits
 
