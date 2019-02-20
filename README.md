@@ -1,6 +1,8 @@
 # Schoolsoft Discord Webhook
 This is a schoolsoft discord webhook.
+
 It ONLY sends schoolsoft news to a discord channel.
+
 Schoolsoft is a swedish school "web software" for the students and teachers.
 
 ## Requirements
